@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+**/config.py
+*key*.py
+*secret*.py
+.env
+data_protocols/
+data_safety/
+qdrant_storage/
+.DS_Store
+*.log
+.vscode/
