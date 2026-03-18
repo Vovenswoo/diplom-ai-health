@@ -6,7 +6,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from qdrant_client import QdrantClient
 from qdrant_client.http import models
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyARq7SVQ7NCAEmwk1LYurDKzLW6lhhkzQE"  
+os.environ["GOOGLE_API_KEY"] = "AIza......"  
 
 COLLECTION_KNOWLEDGE = "knowledge_base"
 COLLECTION_SAFETY = "safety_base"
