@@ -6,9 +6,17 @@ from dotenv import load_dotenv
 # Загружаем API-ключ из .env
 load_dotenv()
 
+# Проверяем, что ключ загрузился
+api_key = os.getenv("OPENROUTER_API_KEY")
+if not api_key:
+    raise ValueError("❌ OPENROUTER_API_KEY не найден в .env файле!")
+
+print(f"✅ API ключ загружен: {api_key[:10]}...")
+
+# Используем OpenRouter (а не прямой DeepSeek)
 client = OpenAI(
-    api_key=os.getenv("DEEPSEEK_API_KEY"),
-    base_url="https://api.deepseek.com"
+    base_url="https://openrouter.ai/api/v1",
+    api_key=api_key,
 )
 
 # Системный промпт из твоего PDF (строгий)
@@ -56,15 +64,20 @@ OUTPUT FORMAT (JSON ONLY):
 """
 
 def generate_program(profile: dict) -> dict:
-    """Отправляет профиль в DeepSeek и возвращает программу"""
+    """Отправляет профиль в OpenRouter (DeepSeek) и возвращает программу"""
     try:
         response = client.chat.completions.create(
-            model="deepseek-chat",
+            extra_headers={
+                "HTTP-Referer": "http://localhost:3000",
+                "X-Title": "AI Health Coach Dataset Generator",
+            },
+            model="deepseek/deepseek-chat",  # DeepSeek через OpenRouter
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": json.dumps(profile, ensure_ascii=False)}
             ],
-            temperature=0.3
+            temperature=0.3,
+            response_format={"type": "json_object"}
         )
         # Извлекаем JSON из ответа
         content = response.choices[0].message.content
@@ -75,7 +88,7 @@ def generate_program(profile: dict) -> dict:
             content = content.split("```")[1].split("```")[0]
         return json.loads(content)
     except Exception as e:
-        print(f"Ошибка при запросе: {e}")
+        print(f"❌ Ошибка при запросе: {e}")
         return None
 
 def main():
@@ -87,7 +100,6 @@ def main():
     print(f"✅ Загружено {len(profiles)} профилей")
     
     # Для теста берем первые 10 профилей
-    # Потом изменишь на len(profiles) для всех 5000
     test_count = 10
     print(f"🔄 Обрабатываю {test_count} профилей для теста...")
     

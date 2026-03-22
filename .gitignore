@@ -11,6 +11,5 @@ qdrant_storage/
 .DS_Store
 *.log
 .vscode/
-data_generation/dataset.jsonl
 data_generation/profiles.json
-data_generation/dataset.jsonl
+
