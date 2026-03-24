@@ -1,0 +1,5422 @@
+[
+  {
+    "age": "15-20",
+    "gender": "female",
+    "goal": "muscle_gain",
+    "intensity": "moderate",
+    "illnesses": [
+      "postural_kyphosis",
+      "insulin_resistance",
+      "early_varicose_veins"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "08:00:00",
+          "end": "08:45:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "06:45:00",
+          "end": "09:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "18:45:00",
+          "end": "19:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "08:45:00",
+          "end": "10:15:00"
+        },
+        {
+          "start": "20:00:00",
+          "end": "22:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "06:30:00",
+          "end": "09:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "17:45:00",
+          "end": "19:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "low",
+    "illnesses": [
+      "insulin_resistance"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "17:30:00",
+          "end": "19:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "20:30:00",
+          "end": "21:15:00"
+        },
+        {
+          "start": "13:15:00",
+          "end": "15:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "09:30:00",
+          "end": "11:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "08:30:00",
+          "end": "09:00:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "15:15:00",
+          "end": "16:00:00"
+        },
+        {
+          "start": "11:00:00",
+          "end": "12:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "18:00:00",
+          "end": "18:30:00"
+        },
+        {
+          "start": "15:15:00",
+          "end": "16:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "15-20",
+    "gender": "male",
+    "goal": "muscle_gain",
+    "intensity": "high",
+    "illnesses": [
+      "stage_1_hypertension",
+      "early_varicose_veins"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "15:30:00",
+          "end": "18:30:00"
+        },
+        {
+          "start": "09:00:00",
+          "end": "10:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "12:45:00",
+          "end": "15:45:00"
+        },
+        {
+          "start": "06:30:00",
+          "end": "07:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "20:15:00",
+          "end": "20:45:00"
+        },
+        {
+          "start": "12:00:00",
+          "end": "15:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "08:30:00",
+          "end": "11:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "09:30:00",
+          "end": "12:00:00"
+        },
+        {
+          "start": "19:15:00",
+          "end": "22:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "08:45:00",
+          "end": "11:45:00"
+        },
+        {
+          "start": "06:45:00",
+          "end": "08:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "06:00:00",
+          "end": "09:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [
+      "degenerative_disc_disease",
+      "postural_kyphosis",
+      "early_varicose_veins"
+    ],
+    "free_time": {
+      "monday": null,
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "18:15:00",
+          "end": "21:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "19:45:00",
+          "end": "20:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "06:30:00",
+          "end": "08:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        },
+        {
+          "start": "13:15:00",
+          "end": "14:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "12:30:00",
+          "end": "15:00:00"
+        },
+        {
+          "start": "18:15:00",
+          "end": "18:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "15-20",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "moderate",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "20:45:00",
+          "end": "21:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "07:30:00",
+          "end": "08:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "13:45:00",
+          "end": "15:45:00"
+        }
+      ],
+      "thursday": null,
+      "friday": [
+        {
+          "start": "18:00:00",
+          "end": "18:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "07:00:00",
+          "end": "07:30:00"
+        },
+        {
+          "start": "11:15:00",
+          "end": "12:15:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "low",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "20:00:00",
+          "end": "21:30:00"
+        },
+        {
+          "start": "06:45:00",
+          "end": "07:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "16:00:00",
+          "end": "16:30:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": null,
+      "friday": [
+        {
+          "start": "13:15:00",
+          "end": "14:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "08:45:00",
+          "end": "10:15:00"
+        },
+        {
+          "start": "12:45:00",
+          "end": "13:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "16:00:00",
+          "end": "18:30:00"
+        },
+        {
+          "start": "06:00:00",
+          "end": "06:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "rehabilitation",
+    "intensity": "moderate",
+    "illnesses": [],
+    "free_time": {
+      "monday": null,
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "06:45:00",
+          "end": "08:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "18:00:00",
+          "end": "21:00:00"
+        },
+        {
+          "start": "09:15:00",
+          "end": "10:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "20:15:00",
+          "end": "22:15:00"
+        },
+        {
+          "start": "06:30:00",
+          "end": "07:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "20:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "09:45:00",
+          "end": "10:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "rehabilitation",
+    "intensity": "low",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:45:00",
+          "end": "19:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "07:15:00",
+          "end": "08:30:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "07:00:00",
+          "end": "08:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "09:15:00",
+          "end": "12:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "11:45:00",
+          "end": "13:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "12:30:00",
+          "end": "13:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "maintain_fitness",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "11:15:00",
+          "end": "12:30:00"
+        },
+        {
+          "start": "12:30:00",
+          "end": "15:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "16:45:00",
+          "end": "18:45:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "13:15:00",
+          "end": "14:15:00"
+        },
+        {
+          "start": "19:15:00",
+          "end": "20:45:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "06:00:00",
+          "end": "06:30:00"
+        },
+        {
+          "start": "15:00:00",
+          "end": "16:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "19:00:00",
+          "end": "20:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "moderate",
+    "illnesses": [
+      "flat_feet",
+      "muscular_deconditioning",
+      "early_varicose_veins"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "07:45:00",
+          "end": "09:30:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "13:45:00",
+          "end": "15:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "09:00:00",
+          "end": "11:00:00"
+        },
+        {
+          "start": "19:00:00",
+          "end": "21:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "10:15:00",
+          "end": "13:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "16:45:00",
+          "end": "18:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "16:45:00",
+          "end": "17:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "muscle_gain",
+    "intensity": "low",
+    "illnesses": [
+      "degenerative_disc_disease",
+      "insulin_resistance",
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "20:45:00",
+          "end": "22:30:00"
+        },
+        {
+          "start": "13:15:00",
+          "end": "15:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "08:15:00",
+          "end": "09:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "16:30:00",
+          "end": "19:00:00"
+        },
+        {
+          "start": "12:15:00",
+          "end": "13:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "21:15:00",
+          "end": "22:30:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "17:00:00",
+          "end": "18:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "11:45:00",
+          "end": "14:45:00"
+        },
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "maintain_fitness",
+    "intensity": "moderate",
+    "illnesses": [
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "13:00:00",
+          "end": "15:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "09:45:00",
+          "end": "11:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "09:45:00",
+          "end": "10:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "21:15:00",
+          "end": "22:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "12:30:00",
+          "end": "15:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "09:00:00",
+          "end": "11:00:00"
+        },
+        {
+          "start": "15:15:00",
+          "end": "16:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "13:00:00",
+          "end": "14:15:00"
+        },
+        {
+          "start": "08:45:00",
+          "end": "10:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "low",
+    "illnesses": [
+      "muscular_deconditioning",
+      "early_varicose_veins",
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "07:30:00",
+          "end": "08:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "18:45:00",
+          "end": "19:30:00"
+        },
+        {
+          "start": "21:15:00",
+          "end": "22:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "07:15:00",
+          "end": "08:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "21:15:00",
+          "end": "21:45:00"
+        },
+        {
+          "start": "07:45:00",
+          "end": "08:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "07:45:00",
+          "end": "08:45:00"
+        },
+        {
+          "start": "09:15:00",
+          "end": "10:45:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": null
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "low",
+    "illnesses": [],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "15:00:00",
+          "end": "16:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "14:45:00",
+          "end": "15:30:00"
+        },
+        {
+          "start": "15:30:00",
+          "end": "16:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "19:00:00",
+          "end": "21:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "17:15:00",
+          "end": "19:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "15:45:00",
+          "end": "16:15:00"
+        },
+        {
+          "start": "13:00:00",
+          "end": "15:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "15:15:00",
+          "end": "16:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "moderate",
+    "illnesses": [
+      "early_varicose_veins",
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:30:00",
+          "end": "19:45:00"
+        },
+        {
+          "start": "09:15:00",
+          "end": "10:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "06:30:00",
+          "end": "09:00:00"
+        },
+        {
+          "start": "14:30:00",
+          "end": "15:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "16:00:00",
+          "end": "16:30:00"
+        },
+        {
+          "start": "17:45:00",
+          "end": "19:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "14:30:00",
+          "end": "17:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "19:30:00",
+          "end": "20:30:00"
+        },
+        {
+          "start": "12:15:00",
+          "end": "13:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "20:30:00",
+          "end": "22:00:00"
+        },
+        {
+          "start": "19:30:00",
+          "end": "20:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "10:00:00",
+          "end": "10:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "maintain_fitness",
+    "intensity": "moderate",
+    "illnesses": [
+      "flat_feet",
+      "insulin_resistance",
+      "early_varicose_veins"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "16:45:00",
+          "end": "19:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "09:00:00",
+          "end": "11:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "17:45:00",
+          "end": "19:30:00"
+        }
+      ],
+      "thursday": null,
+      "friday": null,
+      "saturday": [
+        {
+          "start": "21:00:00",
+          "end": "22:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "06:00:00",
+          "end": "09:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "high",
+    "illnesses": [
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "11:00:00",
+          "end": "12:15:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "16:00:00",
+          "end": "18:00:00"
+        },
+        {
+          "start": "09:00:00",
+          "end": "10:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "08:00:00",
+          "end": "11:00:00"
+        },
+        {
+          "start": "12:15:00",
+          "end": "14:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "20:15:00",
+          "end": "20:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "11:30:00",
+          "end": "12:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "15:00:00",
+          "end": "15:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "male",
+    "goal": "general_health",
+    "intensity": "low",
+    "illnesses": [
+      "muscular_deconditioning",
+      "early_varicose_veins",
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "11:30:00",
+          "end": "13:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "19:00:00",
+          "end": "21:30:00"
+        },
+        {
+          "start": "07:00:00",
+          "end": "08:15:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": null,
+      "friday": [
+        {
+          "start": "08:00:00",
+          "end": "09:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "06:45:00",
+          "end": "07:45:00"
+        },
+        {
+          "start": "15:15:00",
+          "end": "15:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "17:45:00",
+          "end": "18:45:00"
+        },
+        {
+          "start": "20:30:00",
+          "end": "22:45:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "11:15:00",
+          "end": "12:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "21:00:00",
+          "end": "22:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "09:45:00",
+          "end": "12:45:00"
+        },
+        {
+          "start": "16:00:00",
+          "end": "16:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "10:45:00",
+          "end": "12:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "19:30:00",
+          "end": "20:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "low",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "14:45:00",
+          "end": "16:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "15:45:00",
+          "end": "16:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "18:00:00",
+          "end": "19:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "12:45:00",
+          "end": "15:45:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "18:30:00",
+          "end": "19:15:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "maintain_fitness",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "20:30:00",
+          "end": "22:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "21:30:00",
+          "end": "22:00:00"
+        },
+        {
+          "start": "07:45:00",
+          "end": "08:30:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "18:30:00",
+          "end": "20:30:00"
+        },
+        {
+          "start": "11:00:00",
+          "end": "13:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "17:00:00",
+          "end": "20:00:00"
+        },
+        {
+          "start": "14:15:00",
+          "end": "16:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "13:00:00",
+          "end": "14:15:00"
+        },
+        {
+          "start": "08:45:00",
+          "end": "09:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "09:15:00",
+          "end": "09:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "moderate",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:15:00",
+          "end": "19:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "07:15:00",
+          "end": "08:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "13:45:00",
+          "end": "16:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "12:00:00",
+          "end": "14:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "16:15:00",
+          "end": "16:45:00"
+        },
+        {
+          "start": "17:30:00",
+          "end": "18:30:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "09:45:00",
+          "end": "10:45:00"
+        },
+        {
+          "start": "13:00:00",
+          "end": "14:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "maintain_fitness",
+    "intensity": "moderate",
+    "illnesses": [
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "12:45:00",
+          "end": "14:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "13:00:00",
+          "end": "14:15:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "19:30:00",
+          "end": "21:15:00"
+        },
+        {
+          "start": "18:00:00",
+          "end": "18:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "14:30:00",
+          "end": "15:15:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "19:30:00",
+          "end": "21:00:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "21:30:00",
+          "end": "00:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "13:30:00",
+          "end": "15:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "08:00:00",
+          "end": "09:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "18:15:00",
+          "end": "20:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "moderate",
+    "illnesses": [
+      "flat_feet",
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "20:45:00",
+          "end": "22:45:00"
+        },
+        {
+          "start": "16:45:00",
+          "end": "17:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "20:30:00",
+          "end": "22:00:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": null,
+      "friday": [
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:00:00",
+          "end": "22:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "12:15:00",
+          "end": "13:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "rehabilitation",
+    "intensity": "moderate",
+    "illnesses": [
+      "degenerative_disc_disease",
+      "insulin_resistance"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "20:00:00",
+          "end": "21:00:00"
+        },
+        {
+          "start": "13:45:00",
+          "end": "15:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "16:45:00",
+          "end": "17:45:00"
+        },
+        {
+          "start": "16:15:00",
+          "end": "16:45:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "14:30:00",
+          "end": "16:30:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "18:15:00",
+          "end": "19:45:00"
+        },
+        {
+          "start": "12:45:00",
+          "end": "14:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "12:15:00",
+          "end": "14:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "low",
+    "illnesses": [
+      "muscular_deconditioning",
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "14:30:00",
+          "end": "16:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "12:30:00",
+          "end": "14:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "21:00:00",
+          "end": "22:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "11:45:00",
+          "end": "14:45:00"
+        },
+        {
+          "start": "19:00:00",
+          "end": "19:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "19:45:00",
+          "end": "21:30:00"
+        },
+        {
+          "start": "08:30:00",
+          "end": "09:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "13:45:00",
+          "end": "16:45:00"
+        },
+        {
+          "start": "17:15:00",
+          "end": "18:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "18:15:00",
+          "end": "18:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "maintain_fitness",
+    "intensity": "moderate",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "08:30:00",
+          "end": "10:00:00"
+        },
+        {
+          "start": "19:00:00",
+          "end": "21:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "18:45:00",
+          "end": "21:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "20:15:00",
+          "end": "22:45:00"
+        }
+      ],
+      "thursday": null,
+      "friday": [
+        {
+          "start": "14:15:00",
+          "end": "15:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "09:45:00",
+          "end": "11:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "09:00:00",
+          "end": "09:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "maintain_fitness",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "07:15:00",
+          "end": "08:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "20:30:00",
+          "end": "22:00:00"
+        },
+        {
+          "start": "17:15:00",
+          "end": "20:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "14:30:00",
+          "end": "16:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "18:45:00",
+          "end": "19:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "06:45:00",
+          "end": "09:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "07:45:00",
+          "end": "08:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "14:00:00",
+          "end": "15:45:00"
+        },
+        {
+          "start": "11:00:00",
+          "end": "11:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "15-20",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "high",
+    "illnesses": [
+      "degenerative_disc_disease",
+      "stage_1_hypertension",
+      "insulin_resistance"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "15:15:00",
+          "end": "17:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "09:15:00",
+          "end": "11:00:00"
+        },
+        {
+          "start": "18:15:00",
+          "end": "20:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "20:15:00",
+          "end": "21:30:00"
+        },
+        {
+          "start": "11:30:00",
+          "end": "12:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "10:45:00",
+          "end": "12:45:00"
+        },
+        {
+          "start": "07:45:00",
+          "end": "09:15:00"
+        }
+      ],
+      "friday": null,
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "07:15:00",
+          "end": "08:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "high",
+    "illnesses": [
+      "early_varicose_veins",
+      "degenerative_disc_disease",
+      "insulin_resistance"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "09:45:00",
+          "end": "11:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "19:45:00",
+          "end": "21:15:00"
+        },
+        {
+          "start": "10:00:00",
+          "end": "12:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "10:00:00",
+          "end": "13:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "06:45:00",
+          "end": "07:30:00"
+        },
+        {
+          "start": "17:00:00",
+          "end": "18:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "11:30:00",
+          "end": "13:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "20:15:00",
+          "end": "21:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "21:30:00",
+          "end": "22:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:45:00",
+          "end": "19:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "09:15:00",
+          "end": "11:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "13:15:00",
+          "end": "13:45:00"
+        },
+        {
+          "start": "17:45:00",
+          "end": "19:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "06:45:00",
+          "end": "07:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "11:00:00",
+          "end": "12:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "18:45:00",
+          "end": "20:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "07:45:00",
+          "end": "10:15:00"
+        },
+        {
+          "start": "12:15:00",
+          "end": "13:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "general_health",
+    "intensity": "moderate",
+    "illnesses": [
+      "muscular_deconditioning",
+      "degenerative_disc_disease",
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:00:00",
+          "end": "18:45:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "21:15:00",
+          "end": "22:00:00"
+        },
+        {
+          "start": "14:15:00",
+          "end": "15:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "19:45:00",
+          "end": "21:15:00"
+        },
+        {
+          "start": "08:30:00",
+          "end": "09:00:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "17:15:00",
+          "end": "18:45:00"
+        },
+        {
+          "start": "21:15:00",
+          "end": "22:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "muscle_gain",
+    "intensity": "high",
+    "illnesses": [
+      "flat_feet",
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "17:45:00",
+          "end": "18:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "11:30:00",
+          "end": "13:30:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "18:15:00",
+          "end": "18:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "12:30:00",
+          "end": "14:00:00"
+        }
+      ],
+      "friday": null,
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "21:30:00",
+          "end": "22:45:00"
+        },
+        {
+          "start": "19:00:00",
+          "end": "19:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "moderate",
+    "illnesses": [
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "08:30:00",
+          "end": "09:15:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "21:00:00",
+          "end": "22:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "09:00:00",
+          "end": "10:45:00"
+        },
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "08:45:00",
+          "end": "09:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "16:15:00",
+          "end": "17:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "14:30:00",
+          "end": "17:00:00"
+        },
+        {
+          "start": "19:15:00",
+          "end": "20:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "muscle_gain",
+    "intensity": "low",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "13:15:00",
+          "end": "14:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "18:00:00",
+          "end": "19:30:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "11:00:00",
+          "end": "13:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "06:30:00",
+          "end": "07:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "16:00:00",
+          "end": "16:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "12:00:00",
+          "end": "13:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "12:15:00",
+          "end": "12:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "low",
+    "illnesses": [
+      "early_varicose_veins",
+      "muscular_deconditioning",
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "19:30:00",
+          "end": "20:30:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "14:00:00",
+          "end": "15:15:00"
+        }
+      ],
+      "thursday": null,
+      "friday": [
+        {
+          "start": "12:30:00",
+          "end": "14:15:00"
+        },
+        {
+          "start": "20:15:00",
+          "end": "21:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "16:15:00",
+          "end": "18:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "21:15:00",
+          "end": "21:45:00"
+        },
+        {
+          "start": "17:00:00",
+          "end": "17:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [
+      "insulin_resistance",
+      "early_varicose_veins",
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "10:00:00",
+          "end": "11:00:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "12:45:00",
+          "end": "14:45:00"
+        }
+      ],
+      "friday": null,
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "16:30:00",
+          "end": "19:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "rehabilitation",
+    "intensity": "low",
+    "illnesses": [
+      "flat_feet",
+      "postural_kyphosis",
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "14:00:00",
+          "end": "17:00:00"
+        },
+        {
+          "start": "11:00:00",
+          "end": "12:45:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "18:15:00",
+          "end": "20:00:00"
+        },
+        {
+          "start": "10:00:00",
+          "end": "11:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "09:45:00",
+          "end": "12:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "21:00:00",
+          "end": "22:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "11:45:00",
+          "end": "14:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "16:00:00",
+          "end": "17:00:00"
+        },
+        {
+          "start": "13:30:00",
+          "end": "14:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "15-20",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "16:30:00",
+          "end": "18:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "13:00:00",
+          "end": "14:30:00"
+        },
+        {
+          "start": "18:45:00",
+          "end": "20:45:00"
+        }
+      ],
+      "thursday": null,
+      "friday": [
+        {
+          "start": "06:45:00",
+          "end": "09:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "20:30:00",
+          "end": "21:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "15:45:00",
+          "end": "17:15:00"
+        },
+        {
+          "start": "06:00:00",
+          "end": "08:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "high",
+    "illnesses": [
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "08:30:00",
+          "end": "09:00:00"
+        },
+        {
+          "start": "17:00:00",
+          "end": "18:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "19:15:00",
+          "end": "21:15:00"
+        },
+        {
+          "start": "15:30:00",
+          "end": "16:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "07:30:00",
+          "end": "08:15:00"
+        },
+        {
+          "start": "10:45:00",
+          "end": "11:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "11:30:00",
+          "end": "13:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "06:00:00",
+          "end": "06:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "moderate",
+    "illnesses": [
+      "early_varicose_veins",
+      "stage_1_hypertension",
+      "flat_feet"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "07:45:00",
+          "end": "08:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "15:00:00",
+          "end": "16:30:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "15:15:00",
+          "end": "17:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "17:00:00",
+          "end": "20:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "11:30:00",
+          "end": "13:30:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "19:30:00",
+          "end": "22:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "muscle_gain",
+    "intensity": "moderate",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "17:30:00",
+          "end": "20:00:00"
+        },
+        {
+          "start": "10:15:00",
+          "end": "12:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "15:00:00",
+          "end": "17:30:00"
+        },
+        {
+          "start": "09:00:00",
+          "end": "11:30:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "13:30:00",
+          "end": "14:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "18:45:00",
+          "end": "20:30:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "14:15:00",
+          "end": "16:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "high",
+    "illnesses": [
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "15:45:00",
+          "end": "17:15:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "20:15:00",
+          "end": "21:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "09:45:00",
+          "end": "11:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "14:45:00",
+          "end": "16:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "13:15:00",
+          "end": "14:30:00"
+        },
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "moderate",
+    "illnesses": [
+      "degenerative_disc_disease",
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:15:00",
+          "end": "19:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "13:15:00",
+          "end": "14:45:00"
+        },
+        {
+          "start": "10:15:00",
+          "end": "11:00:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "12:30:00",
+          "end": "13:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "17:00:00",
+          "end": "17:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "17:15:00",
+          "end": "18:45:00"
+        },
+        {
+          "start": "10:30:00",
+          "end": "11:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "20:15:00",
+          "end": "21:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "moderate",
+    "illnesses": [
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "17:00:00",
+          "end": "18:30:00"
+        },
+        {
+          "start": "18:45:00",
+          "end": "20:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "06:15:00",
+          "end": "07:30:00"
+        },
+        {
+          "start": "20:00:00",
+          "end": "21:00:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "07:00:00",
+          "end": "08:30:00"
+        },
+        {
+          "start": "14:45:00",
+          "end": "17:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "18:15:00",
+          "end": "19:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "18:15:00",
+          "end": "20:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "14:00:00",
+          "end": "16:00:00"
+        },
+        {
+          "start": "17:45:00",
+          "end": "20:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "low",
+    "illnesses": [
+      "insulin_resistance",
+      "flat_feet",
+      "early_varicose_veins"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "12:15:00",
+          "end": "13:00:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "21:30:00",
+          "end": "22:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "19:45:00",
+          "end": "21:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "14:15:00",
+          "end": "16:15:00"
+        },
+        {
+          "start": "06:15:00",
+          "end": "08:00:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "10:45:00",
+          "end": "12:00:00"
+        },
+        {
+          "start": "07:30:00",
+          "end": "09:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "maintain_fitness",
+    "intensity": "high",
+    "illnesses": [
+      "degenerative_disc_disease",
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": null,
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "13:45:00",
+          "end": "16:15:00"
+        },
+        {
+          "start": "09:30:00",
+          "end": "11:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "14:00:00",
+          "end": "15:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "12:15:00",
+          "end": "14:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "11:15:00",
+          "end": "13:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "18:45:00",
+          "end": "21:15:00"
+        },
+        {
+          "start": "06:00:00",
+          "end": "07:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "muscle_gain",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "16:45:00",
+          "end": "18:30:00"
+        },
+        {
+          "start": "09:30:00",
+          "end": "11:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "16:30:00",
+          "end": "17:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "18:30:00",
+          "end": "20:15:00"
+        },
+        {
+          "start": "13:00:00",
+          "end": "14:30:00"
+        }
+      ],
+      "thursday": null,
+      "friday": [
+        {
+          "start": "17:30:00",
+          "end": "20:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "20:15:00",
+          "end": "20:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "14:30:00",
+          "end": "15:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "maintain_fitness",
+    "intensity": "moderate",
+    "illnesses": [
+      "flat_feet",
+      "degenerative_disc_disease",
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "12:15:00",
+          "end": "13:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "08:00:00",
+          "end": "10:00:00"
+        },
+        {
+          "start": "13:15:00",
+          "end": "15:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "11:15:00",
+          "end": "11:45:00"
+        },
+        {
+          "start": "18:00:00",
+          "end": "19:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "16:45:00",
+          "end": "18:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "15:45:00",
+          "end": "17:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "16:30:00",
+          "end": "17:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "rehabilitation",
+    "intensity": "moderate",
+    "illnesses": [
+      "early_varicose_veins",
+      "muscular_deconditioning",
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "18:45:00",
+          "end": "19:15:00"
+        },
+        {
+          "start": "12:45:00",
+          "end": "13:45:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "10:30:00",
+          "end": "12:15:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "20:30:00",
+          "end": "22:00:00"
+        },
+        {
+          "start": "11:15:00",
+          "end": "11:45:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "rehabilitation",
+    "intensity": "high",
+    "illnesses": [
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "16:45:00",
+          "end": "18:30:00"
+        },
+        {
+          "start": "10:00:00",
+          "end": "11:45:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "21:15:00",
+          "end": "22:45:00"
+        },
+        {
+          "start": "15:45:00",
+          "end": "17:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "19:45:00",
+          "end": "21:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "06:30:00",
+          "end": "08:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "20:30:00",
+          "end": "21:15:00"
+        },
+        {
+          "start": "08:45:00",
+          "end": "09:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "15:45:00",
+          "end": "17:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "15:00:00",
+          "end": "15:45:00"
+        },
+        {
+          "start": "18:30:00",
+          "end": "19:45:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "10:30:00",
+          "end": "11:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "17:15:00",
+          "end": "19:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "16:30:00",
+          "end": "18:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:30:00",
+          "end": "00:00:00"
+        },
+        {
+          "start": "18:30:00",
+          "end": "20:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "11:45:00",
+          "end": "12:15:00"
+        },
+        {
+          "start": "17:00:00",
+          "end": "18:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "21:30:00",
+          "end": "22:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "20:30:00",
+          "end": "22:45:00"
+        },
+        {
+          "start": "15:30:00",
+          "end": "16:30:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "07:45:00",
+          "end": "09:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "17:30:00",
+          "end": "18:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "16:45:00",
+          "end": "17:30:00"
+        },
+        {
+          "start": "12:45:00",
+          "end": "13:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "09:45:00",
+          "end": "10:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "21:00:00",
+          "end": "22:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "low",
+    "illnesses": [
+      "stage_1_hypertension",
+      "flat_feet",
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:45:00",
+          "end": "21:45:00"
+        },
+        {
+          "start": "16:15:00",
+          "end": "16:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "16:00:00",
+          "end": "17:15:00"
+        },
+        {
+          "start": "12:45:00",
+          "end": "14:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "21:15:00",
+          "end": "22:45:00"
+        },
+        {
+          "start": "12:45:00",
+          "end": "13:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "12:30:00",
+          "end": "15:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "08:30:00",
+          "end": "11:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:15:00",
+          "end": "22:30:00"
+        },
+        {
+          "start": "19:00:00",
+          "end": "19:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "09:30:00",
+          "end": "10:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "rehabilitation",
+    "intensity": "high",
+    "illnesses": [
+      "muscular_deconditioning",
+      "insulin_resistance"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "14:30:00",
+          "end": "16:30:00"
+        },
+        {
+          "start": "16:30:00",
+          "end": "17:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "16:30:00",
+          "end": "17:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "06:45:00",
+          "end": "08:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "17:00:00",
+          "end": "17:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "17:45:00",
+          "end": "20:45:00"
+        },
+        {
+          "start": "12:45:00",
+          "end": "14:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "13:00:00",
+          "end": "14:15:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "muscle_gain",
+    "intensity": "low",
+    "illnesses": [
+      "stage_1_hypertension",
+      "insulin_resistance",
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "06:30:00",
+          "end": "07:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "17:00:00",
+          "end": "18:00:00"
+        },
+        {
+          "start": "14:30:00",
+          "end": "16:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "21:15:00",
+          "end": "22:45:00"
+        },
+        {
+          "start": "10:45:00",
+          "end": "12:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "11:30:00",
+          "end": "12:45:00"
+        },
+        {
+          "start": "19:00:00",
+          "end": "21:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "14:15:00",
+          "end": "15:15:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "15:15:00",
+          "end": "16:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "maintain_fitness",
+    "intensity": "low",
+    "illnesses": [
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "14:45:00",
+          "end": "16:00:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "06:00:00",
+          "end": "06:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "15:45:00",
+          "end": "18:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "10:30:00",
+          "end": "12:30:00"
+        },
+        {
+          "start": "06:00:00",
+          "end": "07:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:30:00",
+          "end": "22:30:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "high",
+    "illnesses": [
+      "postural_kyphosis",
+      "insulin_resistance"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "08:00:00",
+          "end": "11:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "17:45:00",
+          "end": "19:30:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "17:45:00",
+          "end": "20:15:00"
+        },
+        {
+          "start": "11:30:00",
+          "end": "14:30:00"
+        }
+      ],
+      "thursday": null,
+      "friday": [
+        {
+          "start": "08:00:00",
+          "end": "09:00:00"
+        },
+        {
+          "start": "11:30:00",
+          "end": "13:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:15:00",
+          "end": "00:15:00"
+        },
+        {
+          "start": "06:30:00",
+          "end": "07:45:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "maintain_fitness",
+    "intensity": "low",
+    "illnesses": [
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "13:00:00",
+          "end": "16:00:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "18:30:00",
+          "end": "19:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "19:15:00",
+          "end": "21:15:00"
+        },
+        {
+          "start": "16:00:00",
+          "end": "16:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "13:45:00",
+          "end": "16:45:00"
+        },
+        {
+          "start": "17:30:00",
+          "end": "18:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "18:00:00",
+          "end": "20:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "16:45:00",
+          "end": "18:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "moderate",
+    "illnesses": [
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "12:15:00",
+          "end": "13:15:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "11:15:00",
+          "end": "11:45:00"
+        },
+        {
+          "start": "13:15:00",
+          "end": "14:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "06:15:00",
+          "end": "08:15:00"
+        },
+        {
+          "start": "08:30:00",
+          "end": "10:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "15:00:00",
+          "end": "15:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "13:30:00",
+          "end": "15:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "07:30:00",
+          "end": "08:00:00"
+        },
+        {
+          "start": "10:00:00",
+          "end": "12:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "high",
+    "illnesses": [
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "09:30:00",
+          "end": "11:15:00"
+        },
+        {
+          "start": "17:15:00",
+          "end": "17:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "10:15:00",
+          "end": "12:15:00"
+        },
+        {
+          "start": "06:45:00",
+          "end": "09:15:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": null,
+      "friday": null,
+      "saturday": [
+        {
+          "start": "12:00:00",
+          "end": "15:00:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "male",
+    "goal": "maintain_fitness",
+    "intensity": "moderate",
+    "illnesses": [
+      "early_varicose_veins",
+      "insulin_resistance",
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "09:30:00",
+          "end": "11:15:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "15:30:00",
+          "end": "16:00:00"
+        }
+      ],
+      "thursday": null,
+      "friday": [
+        {
+          "start": "06:15:00",
+          "end": "06:45:00"
+        },
+        {
+          "start": "15:30:00",
+          "end": "16:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "15:15:00",
+          "end": "17:45:00"
+        },
+        {
+          "start": "12:45:00",
+          "end": "13:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "08:30:00",
+          "end": "11:00:00"
+        },
+        {
+          "start": "20:00:00",
+          "end": "22:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "high",
+    "illnesses": [
+      "early_varicose_veins",
+      "stage_1_hypertension",
+      "insulin_resistance"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "07:45:00",
+          "end": "09:15:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "19:30:00",
+          "end": "20:45:00"
+        },
+        {
+          "start": "11:30:00",
+          "end": "14:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "10:45:00",
+          "end": "12:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "08:00:00",
+          "end": "09:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "07:30:00",
+          "end": "09:30:00"
+        },
+        {
+          "start": "20:00:00",
+          "end": "21:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "21:00:00",
+          "end": "21:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "16:30:00",
+          "end": "18:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "20:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "16:45:00",
+          "end": "18:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "18:45:00",
+          "end": "20:00:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "07:30:00",
+          "end": "08:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "general_health",
+    "intensity": "moderate",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "07:00:00",
+          "end": "08:30:00"
+        },
+        {
+          "start": "17:00:00",
+          "end": "17:45:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "06:00:00",
+          "end": "07:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "17:00:00",
+          "end": "18:00:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "20:00:00",
+          "end": "22:00:00"
+        },
+        {
+          "start": "18:00:00",
+          "end": "19:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "10:30:00",
+          "end": "13:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "high",
+    "illnesses": [
+      "stage_1_hypertension",
+      "flat_feet",
+      "early_varicose_veins"
+    ],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "19:00:00",
+          "end": "20:30:00"
+        },
+        {
+          "start": "12:15:00",
+          "end": "13:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "12:15:00",
+          "end": "13:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "18:15:00",
+          "end": "19:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "09:00:00",
+          "end": "10:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "10:15:00",
+          "end": "13:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "09:45:00",
+          "end": "11:30:00"
+        },
+        {
+          "start": "19:45:00",
+          "end": "21:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "high",
+    "illnesses": [
+      "early_varicose_veins",
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "15:15:00",
+          "end": "18:15:00"
+        },
+        {
+          "start": "11:30:00",
+          "end": "14:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "15:15:00",
+          "end": "16:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "11:15:00",
+          "end": "12:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "18:30:00",
+          "end": "19:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "08:15:00",
+          "end": "09:45:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": null
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "male",
+    "goal": "muscle_gain",
+    "intensity": "moderate",
+    "illnesses": [
+      "degenerative_disc_disease",
+      "muscular_deconditioning",
+      "insulin_resistance"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "19:30:00",
+          "end": "21:00:00"
+        },
+        {
+          "start": "12:15:00",
+          "end": "14:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "21:00:00",
+          "end": "00:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "18:45:00",
+          "end": "19:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "08:45:00",
+          "end": "11:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "16:45:00",
+          "end": "17:30:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "06:15:00",
+          "end": "07:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "moderate",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "14:00:00",
+          "end": "15:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "16:15:00",
+          "end": "17:45:00"
+        },
+        {
+          "start": "07:45:00",
+          "end": "09:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "12:45:00",
+          "end": "13:30:00"
+        }
+      ],
+      "thursday": null,
+      "friday": [
+        {
+          "start": "08:30:00",
+          "end": "10:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "15:15:00",
+          "end": "18:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "10:45:00",
+          "end": "11:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "15-20",
+    "gender": "female",
+    "goal": "rehabilitation",
+    "intensity": "low",
+    "illnesses": [
+      "muscular_deconditioning",
+      "flat_feet"
+    ],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "08:30:00",
+          "end": "09:00:00"
+        },
+        {
+          "start": "14:00:00",
+          "end": "15:30:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "21:45:00",
+          "end": "00:45:00"
+        },
+        {
+          "start": "19:15:00",
+          "end": "22:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "20:00:00",
+          "end": "22:30:00"
+        },
+        {
+          "start": "14:15:00",
+          "end": "15:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "08:15:00",
+          "end": "10:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "20:45:00",
+          "end": "21:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "20:45:00",
+          "end": "22:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "muscle_gain",
+    "intensity": "moderate",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "19:30:00",
+          "end": "20:45:00"
+        },
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "14:30:00",
+          "end": "17:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "19:45:00",
+          "end": "21:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "18:30:00",
+          "end": "19:00:00"
+        },
+        {
+          "start": "17:15:00",
+          "end": "18:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "13:30:00",
+          "end": "15:00:00"
+        },
+        {
+          "start": "18:15:00",
+          "end": "19:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "18:45:00",
+          "end": "19:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "13:30:00",
+          "end": "16:00:00"
+        },
+        {
+          "start": "11:30:00",
+          "end": "13:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "muscle_gain",
+    "intensity": "low",
+    "illnesses": [
+      "flat_feet",
+      "stage_1_hypertension",
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:00:00",
+          "end": "19:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "08:00:00",
+          "end": "10:00:00"
+        },
+        {
+          "start": "21:45:00",
+          "end": "00:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "10:30:00",
+          "end": "13:30:00"
+        },
+        {
+          "start": "20:30:00",
+          "end": "22:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "09:00:00",
+          "end": "12:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "07:30:00",
+          "end": "10:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:45:00",
+          "end": "22:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "13:00:00",
+          "end": "14:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "maintain_fitness",
+    "intensity": "high",
+    "illnesses": [
+      "muscular_deconditioning",
+      "postural_kyphosis",
+      "flat_feet"
+    ],
+    "free_time": {
+      "monday": null,
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "07:45:00",
+          "end": "09:00:00"
+        },
+        {
+          "start": "10:00:00",
+          "end": "11:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "16:30:00",
+          "end": "18:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "10:15:00",
+          "end": "11:15:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": null
+    }
+  },
+  {
+    "age": "15-20",
+    "gender": "male",
+    "goal": "general_health",
+    "intensity": "low",
+    "illnesses": [
+      "insulin_resistance",
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "21:30:00",
+          "end": "22:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "08:00:00",
+          "end": "08:30:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "13:00:00",
+          "end": "13:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "15:00:00",
+          "end": "15:30:00"
+        },
+        {
+          "start": "19:30:00",
+          "end": "21:30:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "06:15:00",
+          "end": "07:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:00:00",
+          "end": "22:15:00"
+        },
+        {
+          "start": "08:30:00",
+          "end": "09:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "20:15:00",
+          "end": "22:45:00"
+        },
+        {
+          "start": "17:45:00",
+          "end": "19:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "rehabilitation",
+    "intensity": "low",
+    "illnesses": [
+      "muscular_deconditioning",
+      "stage_1_hypertension"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "14:30:00",
+          "end": "17:00:00"
+        },
+        {
+          "start": "17:15:00",
+          "end": "19:00:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "07:00:00",
+          "end": "09:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "07:45:00",
+          "end": "09:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "18:30:00",
+          "end": "19:00:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": null
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "muscle_gain",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "19:15:00",
+          "end": "21:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "11:30:00",
+          "end": "13:00:00"
+        },
+        {
+          "start": "17:00:00",
+          "end": "19:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "15:30:00",
+          "end": "16:30:00"
+        },
+        {
+          "start": "10:15:00",
+          "end": "11:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "11:45:00",
+          "end": "13:45:00"
+        },
+        {
+          "start": "18:45:00",
+          "end": "19:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "19:45:00",
+          "end": "21:30:00"
+        },
+        {
+          "start": "17:45:00",
+          "end": "18:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "21:00:00",
+          "end": "00:00:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "male",
+    "goal": "maintain_fitness",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "14:45:00",
+          "end": "15:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "06:00:00",
+          "end": "07:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "11:45:00",
+          "end": "12:30:00"
+        },
+        {
+          "start": "18:00:00",
+          "end": "18:45:00"
+        }
+      ],
+      "thursday": null,
+      "friday": null,
+      "saturday": [
+        {
+          "start": "11:45:00",
+          "end": "13:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "08:45:00",
+          "end": "09:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "muscle_gain",
+    "intensity": "low",
+    "illnesses": [
+      "insulin_resistance",
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "15:15:00",
+          "end": "17:15:00"
+        },
+        {
+          "start": "18:00:00",
+          "end": "18:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "15:15:00",
+          "end": "16:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "10:00:00",
+          "end": "10:45:00"
+        },
+        {
+          "start": "06:15:00",
+          "end": "07:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "10:00:00",
+          "end": "11:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "18:45:00",
+          "end": "20:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "17:45:00",
+          "end": "18:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "18:15:00",
+          "end": "19:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "maintain_fitness",
+    "intensity": "high",
+    "illnesses": [
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "20:00:00",
+          "end": "22:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "16:30:00",
+          "end": "17:00:00"
+        },
+        {
+          "start": "07:30:00",
+          "end": "09:00:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "13:30:00",
+          "end": "14:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "12:45:00",
+          "end": "15:15:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "12:00:00",
+          "end": "12:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "muscle_gain",
+    "intensity": "low",
+    "illnesses": [
+      "early_varicose_veins",
+      "insulin_resistance",
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:30:00",
+          "end": "20:15:00"
+        },
+        {
+          "start": "16:00:00",
+          "end": "17:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "14:45:00",
+          "end": "17:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "16:45:00",
+          "end": "18:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "16:45:00",
+          "end": "17:45:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "21:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "16:15:00",
+          "end": "18:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "rehabilitation",
+    "intensity": "low",
+    "illnesses": [
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "08:30:00",
+          "end": "10:00:00"
+        },
+        {
+          "start": "16:30:00",
+          "end": "19:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "19:30:00",
+          "end": "21:30:00"
+        },
+        {
+          "start": "13:30:00",
+          "end": "14:00:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": null,
+      "friday": null,
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "14:15:00",
+          "end": "15:15:00"
+        },
+        {
+          "start": "07:15:00",
+          "end": "09:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "21:15:00",
+          "end": "22:45:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "10:45:00",
+          "end": "13:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "07:45:00",
+          "end": "08:15:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "21:45:00",
+          "end": "00:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "15-20",
+    "gender": "female",
+    "goal": "muscle_gain",
+    "intensity": "moderate",
+    "illnesses": [
+      "early_varicose_veins",
+      "flat_feet",
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "15:15:00",
+          "end": "16:45:00"
+        },
+        {
+          "start": "17:45:00",
+          "end": "19:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "13:15:00",
+          "end": "14:30:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "09:30:00",
+          "end": "10:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "08:15:00",
+          "end": "09:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "17:30:00",
+          "end": "18:45:00"
+        },
+        {
+          "start": "09:45:00",
+          "end": "12:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "18:15:00",
+          "end": "19:30:00"
+        },
+        {
+          "start": "10:15:00",
+          "end": "11:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "12:00:00",
+          "end": "13:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "14:00:00",
+          "end": "16:30:00"
+        },
+        {
+          "start": "20:30:00",
+          "end": "21:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "11:30:00",
+          "end": "14:30:00"
+        },
+        {
+          "start": "16:30:00",
+          "end": "19:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "11:00:00",
+          "end": "13:00:00"
+        },
+        {
+          "start": "17:30:00",
+          "end": "20:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "07:15:00",
+          "end": "08:30:00"
+        },
+        {
+          "start": "11:15:00",
+          "end": "14:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "08:15:00",
+          "end": "11:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "17:30:00",
+          "end": "19:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "17:00:00",
+          "end": "18:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "08:00:00",
+          "end": "11:00:00"
+        },
+        {
+          "start": "21:45:00",
+          "end": "00:15:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "08:45:00",
+          "end": "09:45:00"
+        }
+      ],
+      "thursday": null,
+      "friday": [
+        {
+          "start": "07:15:00",
+          "end": "07:45:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": null
+    }
+  },
+  {
+    "age": "15-20",
+    "gender": "male",
+    "goal": "muscle_gain",
+    "intensity": "moderate",
+    "illnesses": [
+      "degenerative_disc_disease",
+      "stage_1_hypertension",
+      "flat_feet"
+    ],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "16:30:00",
+          "end": "18:15:00"
+        },
+        {
+          "start": "21:30:00",
+          "end": "22:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "13:15:00",
+          "end": "15:15:00"
+        }
+      ],
+      "thursday": null,
+      "friday": null,
+      "saturday": [
+        {
+          "start": "14:30:00",
+          "end": "17:00:00"
+        },
+        {
+          "start": "08:15:00",
+          "end": "08:45:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "maintain_fitness",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "19:30:00",
+          "end": "20:45:00"
+        },
+        {
+          "start": "21:15:00",
+          "end": "22:15:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "17:15:00",
+          "end": "18:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "07:00:00",
+          "end": "07:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "20:15:00",
+          "end": "20:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "20:00:00",
+          "end": "21:30:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "19:30:00",
+          "end": "20:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "muscle_gain",
+    "intensity": "low",
+    "illnesses": [
+      "stage_1_hypertension",
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "12:00:00",
+          "end": "13:15:00"
+        },
+        {
+          "start": "16:45:00",
+          "end": "17:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "20:45:00",
+          "end": "22:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "21:15:00",
+          "end": "21:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "17:15:00",
+          "end": "19:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "07:15:00",
+          "end": "09:15:00"
+        },
+        {
+          "start": "16:45:00",
+          "end": "18:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "11:30:00",
+          "end": "13:30:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [
+      "flat_feet",
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:00:00",
+          "end": "20:30:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "08:45:00",
+          "end": "11:45:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "06:00:00",
+          "end": "08:00:00"
+        },
+        {
+          "start": "09:15:00",
+          "end": "12:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "19:15:00",
+          "end": "20:30:00"
+        },
+        {
+          "start": "12:45:00",
+          "end": "13:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "female",
+    "goal": "muscle_gain",
+    "intensity": "moderate",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "11:30:00",
+          "end": "12:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "07:15:00",
+          "end": "09:15:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": null,
+      "friday": [
+        {
+          "start": "07:45:00",
+          "end": "09:15:00"
+        },
+        {
+          "start": "14:15:00",
+          "end": "15:45:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "09:15:00",
+          "end": "11:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "08:00:00",
+          "end": "11:00:00"
+        },
+        {
+          "start": "17:30:00",
+          "end": "20:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "45-50",
+    "gender": "female",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [
+      "muscular_deconditioning",
+      "flat_feet"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "18:30:00",
+          "end": "19:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "19:30:00",
+          "end": "21:15:00"
+        },
+        {
+          "start": "07:30:00",
+          "end": "10:30:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "20:15:00",
+          "end": "22:00:00"
+        },
+        {
+          "start": "08:30:00",
+          "end": "09:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "21:45:00",
+          "end": "22:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "21:45:00",
+          "end": "00:15:00"
+        },
+        {
+          "start": "10:45:00",
+          "end": "12:30:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "07:30:00",
+          "end": "10:00:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "general_health",
+    "intensity": "moderate",
+    "illnesses": [
+      "degenerative_disc_disease",
+      "stage_1_hypertension",
+      "postural_kyphosis"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "15:00:00",
+          "end": "17:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "17:30:00",
+          "end": "19:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "12:30:00",
+          "end": "14:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "15:45:00",
+          "end": "17:45:00"
+        },
+        {
+          "start": "19:00:00",
+          "end": "20:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "18:45:00",
+          "end": "20:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "10:15:00",
+          "end": "11:00:00"
+        },
+        {
+          "start": "15:45:00",
+          "end": "17:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "20:30:00",
+          "end": "22:15:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "35-40",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "low",
+    "illnesses": [
+      "degenerative_disc_disease"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "08:30:00",
+          "end": "09:30:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "08:00:00",
+          "end": "09:15:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "07:45:00",
+          "end": "09:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "21:45:00",
+          "end": "00:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "06:45:00",
+          "end": "08:45:00"
+        },
+        {
+          "start": "11:00:00",
+          "end": "13:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "09:00:00",
+          "end": "10:30:00"
+        },
+        {
+          "start": "21:15:00",
+          "end": "22:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "moderate",
+    "illnesses": [
+      "flat_feet",
+      "muscular_deconditioning"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "20:30:00",
+          "end": "22:00:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "06:45:00",
+          "end": "08:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "09:30:00",
+          "end": "11:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "14:45:00",
+          "end": "17:45:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "11:30:00",
+          "end": "12:30:00"
+        },
+        {
+          "start": "09:15:00",
+          "end": "11:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "08:00:00",
+          "end": "09:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "13:15:00",
+          "end": "13:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "general_health",
+    "intensity": "low",
+    "illnesses": [],
+    "free_time": {
+      "monday": null,
+      "tuesday": [
+        {
+          "start": "13:30:00",
+          "end": "14:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "14:15:00",
+          "end": "14:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "14:45:00",
+          "end": "16:45:00"
+        },
+        {
+          "start": "21:45:00",
+          "end": "00:15:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "06:30:00",
+          "end": "08:00:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "13:15:00",
+          "end": "16:15:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "11:30:00",
+          "end": "13:30:00"
+        },
+        {
+          "start": "09:15:00",
+          "end": "10:00:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "male",
+    "goal": "rehabilitation",
+    "intensity": "high",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "11:00:00",
+          "end": "12:45:00"
+        },
+        {
+          "start": "20:45:00",
+          "end": "22:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "13:30:00",
+          "end": "16:00:00"
+        },
+        {
+          "start": "08:00:00",
+          "end": "08:45:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "07:45:00",
+          "end": "08:45:00"
+        },
+        {
+          "start": "09:15:00",
+          "end": "10:00:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "09:45:00",
+          "end": "11:15:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "08:00:00",
+          "end": "10:30:00"
+        },
+        {
+          "start": "21:00:00",
+          "end": "22:30:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "16:00:00",
+          "end": "18:30:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "50-60",
+    "gender": "male",
+    "goal": "weight_loss",
+    "intensity": "low",
+    "illnesses": [
+      "insulin_resistance",
+      "flat_feet"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "16:45:00",
+          "end": "19:15:00"
+        },
+        {
+          "start": "10:00:00",
+          "end": "12:00:00"
+        }
+      ],
+      "tuesday": null,
+      "wednesday": [
+        {
+          "start": "19:45:00",
+          "end": "20:45:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "14:15:00",
+          "end": "15:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "18:15:00",
+          "end": "20:15:00"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "19:00:00",
+          "end": "20:45:00"
+        }
+      ],
+      "sunday": null
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "general_health",
+    "intensity": "moderate",
+    "illnesses": [],
+    "free_time": {
+      "monday": [
+        {
+          "start": "14:00:00",
+          "end": "17:00:00"
+        },
+        {
+          "start": "18:15:00",
+          "end": "19:45:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "16:00:00",
+          "end": "16:30:00"
+        }
+      ],
+      "wednesday": null,
+      "thursday": [
+        {
+          "start": "17:45:00",
+          "end": "18:15:00"
+        }
+      ],
+      "friday": null,
+      "saturday": [
+        {
+          "start": "15:30:00",
+          "end": "17:00:00"
+        },
+        {
+          "start": "10:30:00",
+          "end": "11:00:00"
+        }
+      ],
+      "sunday": [
+        {
+          "start": "07:30:00",
+          "end": "08:45:00"
+        }
+      ]
+    }
+  },
+  {
+    "age": "25-30",
+    "gender": "female",
+    "goal": "maintain_fitness",
+    "intensity": "moderate",
+    "illnesses": [
+      "muscular_deconditioning",
+      "degenerative_disc_disease",
+      "insulin_resistance"
+    ],
+    "free_time": {
+      "monday": [
+        {
+          "start": "10:00:00",
+          "end": "10:30:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "17:30:00",
+          "end": "20:00:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "16:00:00",
+          "end": "18:00:00"
+        },
+        {
+          "start": "21:00:00",
+          "end": "22:30:00"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "08:45:00",
+          "end": "10:45:00"
+        },
+        {
+          "start": "07:00:00",
+          "end": "08:00:00"
+        }
+      ],
+      "friday": [
+        {
+          "start": "06:45:00",
+          "end": "07:30:00"
+        }
+      ],
+      "saturday": null,
+      "sunday": [
+        {
+          "start": "15:15:00",
+          "end": "16:45:00"
+        }
+      ]
+    }
+  }
+]
