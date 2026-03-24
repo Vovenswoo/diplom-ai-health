@@ -12,7 +12,7 @@ class Settings(BaseSettings):
     TEMPERATURE: float = 0.3
     REQUEST_TIMEOUT: int = 60
     MAX_RETRIES: int = 3
-    CONCURRENCY: int = 50
+    CONCURRENCY: int = 20
     HTTP_REFERER: str = "http://localhost:3000"
     APP_TITLE: str = "AI Health Coach Dataset Generator"
     PROFILES_FILE: str = "src/data_generation/profiles.json"
