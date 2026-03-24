@@ -36,19 +36,29 @@ class DatasetGenerationService:
                 self.client.complete(session, profile, semaphore)
                 for profile in profiles[:count]
             ]
-            print(f"Sending {len(tasks)} requests (max {self.settings.CONCURRENCY} concurrent)...")
+            print(
+                f"Sending {len(tasks)} requests (max {self.settings.CONCURRENCY} concurrent)..."
+            )
             results = await asyncio.gather(*tasks)
 
         dataset: list[dict] = []
         for i, program in enumerate(results):
             if program:
-                dataset.append({
-                    "messages": [
-                        {"role": "system", "content": SYSTEM_PROMPT},
-                        {"role": "user", "content": json.dumps(profiles[i], ensure_ascii=False)},
-                        {"role": "assistant", "content": json.dumps(program, ensure_ascii=False)},
-                    ]
-                })
+                dataset.append(
+                    {
+                        "messages": [
+                            {"role": "system", "content": SYSTEM_PROMPT},
+                            {
+                                "role": "user",
+                                "content": json.dumps(profiles[i], ensure_ascii=False),
+                            },
+                            {
+                                "role": "assistant",
+                                "content": json.dumps(program, ensure_ascii=False),
+                            },
+                        ]
+                    }
+                )
                 print(f"Processed profile {i + 1}")
             else:
                 print(f"Skipped profile {i + 1} (failed)")
@@ -65,7 +75,18 @@ class DatasetGenerationService:
 
 
 if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Generate dataset from profiles")
+    parser.add_argument(
+        "--count",
+        type=int,
+        default=None,
+        help="Number of profiles to process (default: all profiles in the file)",
+    )
+    args = parser.parse_args()
+
     settings = Settings()
     client = CompletionClient(settings)
     service = DatasetGenerationService(settings, client)
-    service.run(count=10)
+    service.run(count=args.count)

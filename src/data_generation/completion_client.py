@@ -101,13 +101,17 @@ class CompletionClient:
                         self.settings.OPENROUTER_BASE_URL,
                         headers=self._build_headers(),
                         json=self._build_payload(profile),
-                        timeout=aiohttp.ClientTimeout(total=self.settings.REQUEST_TIMEOUT),
+                        timeout=aiohttp.ClientTimeout(
+                            total=self.settings.REQUEST_TIMEOUT
+                        ),
                     ) as response:
                         if response.status == 200:
                             data = await response.json()
                             raw = data["choices"][0]["message"]["content"]
                             parsed = json.loads(self._strip_markdown(raw))
-                            return ProgramResponse.model_validate(parsed).model_dump(mode="json")
+                            return ProgramResponse.model_validate(parsed).model_dump(
+                                mode="json"
+                            )
 
                         if response.status == 429:
                             wait = 2**attempt
@@ -119,13 +123,19 @@ class CompletionClient:
                         return None
 
                 except asyncio.TimeoutError:
-                    print(f"Timeout on attempt {attempt + 1}/{self.settings.MAX_RETRIES}")
+                    print(
+                        f"Timeout on attempt {attempt + 1}/{self.settings.MAX_RETRIES}"
+                    )
                     await asyncio.sleep(1)
                 except ValidationError as exc:
-                    print(f"Response validation failed on attempt {attempt + 1}/{self.settings.MAX_RETRIES}: {exc}")
+                    print(
+                        f"Response validation failed on attempt {attempt + 1}/{self.settings.MAX_RETRIES}: {exc}"
+                    )
                     return None
                 except Exception as exc:
-                    print(f"Error on attempt {attempt + 1}/{self.settings.MAX_RETRIES}: {exc}")
+                    print(
+                        f"Error on attempt {attempt + 1}/{self.settings.MAX_RETRIES}: {exc}"
+                    )
                     await asyncio.sleep(1)
 
         print(f"Failed to process profile after {self.settings.MAX_RETRIES} attempts")

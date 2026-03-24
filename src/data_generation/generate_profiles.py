@@ -27,7 +27,9 @@ class ProfileGenerationService:
         start_time = time(start_hour, start_minute)
 
         duration_minutes = random.choice([30, 45, 60, 75, 90, 105, 120, 150, 180])
-        end_datetime = datetime.combine(datetime.today(), start_time) + timedelta(minutes=duration_minutes)
+        end_datetime = datetime.combine(datetime.today(), start_time) + timedelta(
+            minutes=duration_minutes
+        )
         end_time = end_datetime.time()
 
         if end_time.hour >= 23:
@@ -82,19 +84,37 @@ class ProfileGenerationService:
             profiles.append(self.generate_profile())
         return profiles
 
-    def save_to_json(self, profiles: List[UserProfile], filename: str | None = None) -> None:
+    def save_to_json(
+        self, profiles: List[UserProfile], filename: str | None = None
+    ) -> None:
         path = filename or self.settings.PROFILES_FILE
         with open(path, "w", encoding="utf-8") as f:
-            json.dump([p.model_dump(mode="json") for p in profiles], f, ensure_ascii=False, indent=2)
+            json.dump(
+                [p.model_dump(mode="json") for p in profiles],
+                f,
+                ensure_ascii=False,
+                indent=2,
+            )
         print(f"Saved {len(profiles)} profiles to {path}")
 
 
 if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Generate user profiles")
+    parser.add_argument(
+        "--count",
+        type=int,
+        default=None,
+        help="Number of profiles to generate (default: PROFILES_COUNT from settings)",
+    )
+    args = parser.parse_args()
+
     settings = Settings()
     service = ProfileGenerationService(settings)
 
     print("Starting profile generator...")
-    profiles = service.generate_profiles()
+    profiles = service.generate_profiles(count=args.count)
     service.save_to_json(profiles)
 
     print("\nExample generated profile:")

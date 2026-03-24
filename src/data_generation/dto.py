@@ -69,7 +69,9 @@ class UserProfile(BaseModel):
     gender: Gender = Field(..., description="Gender")
     goal: Goal = Field(..., description="Fitness goal")
     intensity: Intensity = Field(..., description="Training intensity")
-    illnesses: List[str] = Field(default_factory=list, description="List of illnesses (up to 3)")
+    illnesses: List[str] = Field(
+        default_factory=list, description="List of illnesses (up to 3)"
+    )
     free_time: FreeTime = Field(..., description="Weekly free-time schedule")
 
     @field_validator("illnesses")
@@ -93,6 +95,7 @@ class UserProfile(BaseModel):
 # ==================================================
 # AI OUTPUT DTOs
 # ==================================================
+
 
 class Macros(BaseModel):
     p: int = Field(..., ge=0, description="Protein (g)")
