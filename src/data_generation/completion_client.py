@@ -114,7 +114,7 @@ class CompletionClient:
                             )
 
                         if response.status == 429:
-                            wait = 2**attempt
+                            wait = 5 * attempt
                             print(f"Rate limit hit, retrying in {wait}s...")
                             await asyncio.sleep(wait)
                             continue
