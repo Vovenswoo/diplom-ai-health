@@ -17,7 +17,7 @@ class Settings(BaseSettings):
     APP_TITLE: str = "AI Health Coach Dataset Generator"
     PROFILES_FILE: str = "src/data_generation/profiles.json"
     DATASET_FILE: str = "src/data_generation/dataset.jsonl"
-    PROFILES_COUNT: int = 5000
+    PROFILES_COUNT: int = 1000
 
     model_config = SettingsConfigDict(
         env_file=".env",
