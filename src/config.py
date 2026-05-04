@@ -12,12 +12,15 @@ class Settings(BaseSettings):
     TEMPERATURE: float = 0.3
     REQUEST_TIMEOUT: int = 60
     MAX_RETRIES: int = 3
-    CONCURRENCY: int = 20
+    CONCURRENCY: int = 40
     HTTP_REFERER: str = "http://localhost:3000"
     APP_TITLE: str = "AI Health Coach Dataset Generator"
     PROFILES_FILE: str = "src/data_generation/profiles.json"
     DATASET_FILE: str = "src/data_generation/dataset.jsonl"
     PROFILES_COUNT: int = 1000
+    
+    # LOCAL MODEL SETTINGS
+    LOCAL_MODEL_URL: str = "http://localhost:8080/v1/chat/completions"
 
     model_config = SettingsConfigDict(
         env_file=".env",

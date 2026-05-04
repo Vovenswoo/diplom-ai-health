@@ -208,3 +208,8 @@ __marimo__/
 
 
 .vscode/
+
+# Local model and engine
+*.gguf
+*.bin
+llama.cpp/
